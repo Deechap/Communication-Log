@@ -1,0 +1,3 @@
+ mkdir communication-log-CONTROL
+ cd communication-log-CONTROL
+ git init
